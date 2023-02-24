@@ -1,4 +1,11 @@
 # Python30Days
 
+Welcome to Python30Days! This is a 30-day project where I will be uploading a new Python project to this repository every day. These projects are intended to help beginners learn Python and provide inspiration for more experienced developers.
 
-I will be doing 30 projects in 30 days.
+Each project will be contained within its own directory and will include a README file with instructions on how to run the project.
+
+Stay tuned for a new project every day for the next 30 days!
+
+## Contact
+
+If you have any questions or feedback, please feel free to contact me via email at andguladzeluka13@gmail.com or add me on Discord  at Sifu#4920
