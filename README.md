@@ -9,3 +9,6 @@ Stay tuned for a new project every day for the next 30 days!
 ## Contact
 
 If you have any questions or feedback, please feel free to contact me via email at andguladzeluka13@gmail.com or add me on Discord  at Sifu#4920
+
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/madushadhanushka?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+<img src="https://img.shields.io/github/stars/madushadhanushka?label=Stars" alt="stars">
