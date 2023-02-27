@@ -8,10 +8,10 @@ This is a Python program that helps calculate financial metrics such as monthly 
 
 ## Usage
 
-1. Copy the code from `financial_calculator.py` in this repository.
+1. Copy the code from `main.py` in this repository.
 2. Open a new file in your Python editor of choice and paste the copied code.
 3. Save the file with a `.py` extension.
-4. Run the program by executing the command `python your_filename.py`.
+4. Run the program by executing the command `python main.py`.
 5. Choose the calculation you want to perform by entering `1`, `2`, or `3` for monthly loan payments, investment returns, or interest rate, respectively.
 6. Follow the prompts to enter the necessary input data.
 7. The calculated result will be displayed on the console and saved to an output file named `output.txt`.
