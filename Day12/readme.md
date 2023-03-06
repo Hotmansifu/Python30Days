@@ -1,21 +1,20 @@
-# Currency Converter GUI using tkinter and currency_converter module
+# PyQt5 Directory Tree Generator
+The PyQt5 Directory Tree Generator is a Python program that allows you to generate and display a directory tree for a given directory. The program uses the PyQt5 library to create a graphical user interface (GUI) that allows you to input the directory path and generate the directory tree.
 
-This is a simple Currency Converter Graphical User Interface (GUI) implemented using Python's tkinter module and the currency_converter module. It allows the user to convert between any two currencies supported by the currency_converter module.
 
 
-## Installation
+## Perequisites 
+To run the PyQt5 Directory Tree Generator, you need to have Python 3 and the PyQt5 library installed on your system. You can install the PyQt5 library using pip:
 
-To use this program, you need to have Python 3.x installed on your computer. You can download it from the official Python website: https://www.python.org/downloads/.
-
-You also need to install the currency_converter module. You can install it using pip by running the following command in your terminal or command prompt:
-
-```pip install currency_converter```
+```pip install PyQt5```
 
 ## Usage
 
-To use the Currency Converter GUI, simply run the main.py file using Python. This will launch the GUI window.
+To run the PyQt5 Directory Tree Generator, simply run the main.py script:
+``` python main.py```
 
-The GUI window consists of two sections: an input section and an output section. In the input section, you can select the currency you want to convert from, the currency you want to convert to, and enter the amount you want to convert. In the output section, the result of the conversion will be displayed.
+
+Once the program is running, you can enter the directory path in the input field and click the "Generate Tree" button to generate and display the directory tree. You can also click the "Open" action in the "File" menu to open a file dialog that allows you to select a directory.
 
 To convert, simply click the "Convert" button. The result of the conversion will be displayed in the output section.
 
