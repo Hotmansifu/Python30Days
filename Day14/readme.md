@@ -1,4 +1,4 @@
-# Currency Converter GUI using tkinter and currency_converter module
+# Temperature converter
 
 This is a Python program that converts temperatures between Fahrenheit and Celsius. The user is prompted to choose which conversion they want to make, and then input the temperature they want to convert.
 
