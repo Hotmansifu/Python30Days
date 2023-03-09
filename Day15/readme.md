@@ -1,28 +1,31 @@
-# Currency Converter GUI using tkinter and currency_converter module
-
-This is a Python program that converts temperatures between Fahrenheit and Celsius. The user is prompted to choose which conversion they want to make, and then input the temperature they want to convert.
-
-The program contains two functions: `fahrenheit_to_celsius()` and `celsius_to_fahrenheit()`. These functions perform the actual temperature conversion calculations, which are based on the formulas:
-
-* Celsius to Fahrenheit: F = (C x 9/5) + 32
-
-* Fahrenheit to Celsius: C = (F - 32) x 5/9
-
-The program then calls the appropriate function based on the user's choice and displays the converted temperature to the console with two decimal places using the format() method.
+# Tic Tac Toe Game
 
 
-## Usage
+This is a simple implementation of the classic Tic Tac Toe game using Python and the Tkinter library for the GUI.
 
-To run the program, navigate to the directory where the temperature_converter.py file is located and run the following command in the terminal:
+## Installation
 
-```python temperature_converter.py```
-The program will then prompt the user to enter the temperature they want to convert and which conversion they want to make. The input temperature should be entered as an integer, followed by either "F" for Fahrenheit or "C" for Celsius. For example, to convert 32 degrees Fahrenheit to Celsius, the user should enter:
-`32f `
-The program will then display the converted temperature to the console.
+1. Make sure you have Python 3 installed on your system.
+2. Clone the repository to your local machine using the command git clone https://github.com/Hotmansifu/Python30Days/Day15.git
+3. To run he program, navigate to the directory where the tic_tac_toe.py file is located and run the following command in the terminal:
 
 
-## Contributing
+## How to Play
+ 1. Run the game by running the command python tic_tac_toe.py in the command line.
+ 2. The game window will open, displaying a 3x3 grid of buttons.
+ 3. Player 1 goes first and clicks on an empty button to mark it with an "X".
+ 4. Player 2 then takes their turn and clicks on an empty button to mark it with an "O".
+ 5. The game continues in this manner until one player has marked 3 consecutive cells either horizontally, vertically, or diagonally.
+ 6.If no player is able to achieve this, the game ends in a draw.
+
 Contributions to this program are welcome. If you find any bugs or have any suggestions for improvement, please create a GitHub issue or submit a pull request.
-## License
+## Features
+* GUI implementation using the Tkinter library.
+* Two players can play the game on the same computer.
+* A message box is displayed when the game is won or ends in a d
+## Contributing 
+If you would like to contribute to this project, feel free to submit a pull request with your changes. Make sure your code is well-documented and tested before submitting.
 
-This project is licensed under the [MIT License](LICENSE).
+
+
+
