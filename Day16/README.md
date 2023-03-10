@@ -6,12 +6,10 @@ A simple Python script to generate random passwords for different accounts.
 * Specify the length of the password.
 * Store the generated passwords along with the corresponding account name in a file named "passwords.txt".
 ### Usage
-1. * Clone the repository using ```git clone https://github.com/Hotmansifu/PasswordGenerator.git```
+1. * Clone the repository using ```git clone https://github.com/Hotmansifu/Python30Days/Day16.git```
 
-2. * Navigate into the repository using ```cd PasswordGenerator```
-
-3. * ```python main.py```
-4. Follow the prompt to enter the account name and password length. The generated password will be saved to "passwords.txt" in the format Account: <account_name> Password: <password>.
+2. * ```python generator.py```
+3. Follow the prompt to enter the account name and password length. The generated password will be saved to "passwords.txt" in the format Account: <account_name> Password: <password>.
 ### Instructions
 Everyting is made User-Friendly, Code tells you how and what to do.
 ### Suggestions
